@@ -1,6 +1,6 @@
 ## 👋 Intro
 
-I deal with Data Center Networking, linux, and Kubernetes.
+I deal with Data Center Networking, Linux, and Kubernetes.
 
 ## Personal
 

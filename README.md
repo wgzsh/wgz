@@ -1,6 +1,6 @@
 ## 👋 Intro
 
-I deal with datacenter networking, linux, and kubernetes.
+I deal with Data Center Networking, linux, and Kubernetes.
 
 ## Personal
 
@@ -13,3 +13,4 @@ I deal with datacenter networking, linux, and kubernetes.
 - Building and simulating lab environments
 - Self-hosting
 - Learning secure networking principles
+- Software Defined Networking
